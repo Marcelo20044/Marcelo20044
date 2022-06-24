@@ -16,9 +16,8 @@
 * Git https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate%20(2).pdf
 * Java для тестировщиков https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate%20(3).pdf
 * Автоматизированное тестирование https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate.pdf
-* Справка об окончании обучения https://github.com/Marcelo20044/Marcelo20044/blob/main/.pdf
-*
-*
+* Справка об окончании обучения [Хвостенко Марк Олегович справка об обучении (2).pdf](https://github.com/Marcelo20044/Marcelo20044/files/8978326/2.pdf)
+
 
 
 
