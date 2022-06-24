@@ -9,6 +9,16 @@
 
 ### Мои работы:
 * **Дипломная работа** по автоматизированному тестированию: https://github.com/Marcelo20044/ShopTest.git
+* Домашние работы по темам "Java для тестировщиков" и "Автоматизированное тестирование" можно посмотреть в репозиториях
+
+### Сертификаты нетологии
+* Введение в тестирование https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate%20(1).pdf
+* Git https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate%20(2).pdf
+* Java для тестировщиков https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate%20(3).pdf
+* Автоматизированное тестирование https://github.com/Marcelo20044/Marcelo20044/blob/main/certificate.pdf
+* Справка об окончании обучения https://github.com/Marcelo20044/Marcelo20044/blob/main/.pdf
+*
+*
 
 
 
