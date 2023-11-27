@@ -5,8 +5,8 @@
 * Тестировать api с помощью Postman
 * Проводить нагрузочное тестирование с Apche JMeter
 * Писать UI тесты веб-приложений и создавать отчёты (Allure)
-* Подключать CI, используя GitHub Actions или Appveyor
-* Работать с базами данных MySQL и PostgreSQL, писать SQL запросы 
+* CI: GitHub Actions, Appveyor
+* Работать с базами данных MySQL, PostgreSQL, Oracle, писать SQL запросы 
 * Использовать Docker контейнеры
 
 ### Мои работы:
