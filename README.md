@@ -1,18 +1,21 @@
 ## Привет!
 ### Меня зовут Марк Хвостенко, я Java разработчик
-### Я умею:
-* Писать тест кейсы, проводить ручное тестирование и подготавливать тестовую документацию
-* Тестировать api с помощью Postman
-* Проводить нагрузочное тестирование с Apche JMeter
-* Писать UI тесты веб-приложений и создавать отчёты (Allure)
-* CI: GitHub Actions, Appveyor
-* Работать с базами данных MySQL, PostgreSQL, Oracle, писать SQL запросы 
-* Использовать Docker контейнеры
-
+Я учусь и работаю в Итмо. Учусь на 3 курсе на разработчика ПО. Работаю Java разработчиком с лета 2023, разрабатываю с командой университетский сервис my itmo
+### Умею работать с:
+* Java, Maven, Gradle
+* Spring, Spring Boot: spring web, spring security, spring data jpa
+* Hibernate
+* PostgreSql, MySql, Oracle Database
+* Flyway, Liquibase
+* Kafka, RabbitMQ
+* Git, GitHub, GitLab
+* Docker, Docker Compose
+* Linux, MacOS, Windows
+* Jira
 ### Мои работы:
-* **Дипломная работа** по автоматизированному тестированию: https://github.com/Marcelo20044/ShopTest.git
-* Домашние работы по темам "Java для тестировщиков" и "Автоматизированное тестирование" можно посмотреть в репозиториях
-
+* Микросервисный проект на Spring Boot с использованием Kafka, созданный в рамках курса "Технологии разработки ПО на Java": https://github.com/Marcelo20044/CatsOwnersService.git 
+* Я учился на java тестировщика в нетологии, так что вот дипломная работа по автоматизированному тестированию: https://github.com/Marcelo20044/ShopTest.git
+* Лабораторные работы на C# в рамках курса "ООП на C#": https://github.com/Marcelo20044/oop-labs.git
 <!--
 **Marcelo20044/Marcelo20044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
