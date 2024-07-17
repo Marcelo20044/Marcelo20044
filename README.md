@@ -5,7 +5,7 @@
 * Java, Maven, Gradle
 * Spring, Spring Boot: spring web, spring security, spring data jpa
 * Hibernate
-* PostgreSql, MySql, Oracle Database
+* PostgreSQL, MySQL, Oracle Database
 * Flyway, Liquibase
 * Kafka, RabbitMQ
 * Git, GitHub, GitLab
