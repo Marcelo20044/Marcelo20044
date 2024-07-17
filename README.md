@@ -15,7 +15,7 @@
 ### Мои работы:
 * [Микросервисное приложение](https://github.com/Marcelo20044/cats-owners-service.git) для учета котов и их владельцев на Spring Boot с использованием Kafka, написанное в рамках курса "Технологии разработки ПО на Java" 
 * Я учился на java тестировщика в нетологии, так что вот [дипломная работа](https://github.com/Marcelo20044/ShopTest.git) по автоматизированному тестированию
-* [Лабораторные работы](https://github.com/Marcelo20044/oop-labs.git) на C# в рамках курса "ООП на C#"
+* [Лабораторные работы](https://github.com/Marcelo20044/oop-labs.git) на C# с применением кучи патернов ООП в рамках курса "ООП на C#"
 <!--
 **Marcelo20044/Marcelo20044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
