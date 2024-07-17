@@ -13,7 +13,7 @@
 * Linux, MacOS, Windows
 * Jira
 ### Мои работы:
-* Микросервисный проект на Spring Boot с использованием Kafka, написанный в рамках курса "Технологии разработки ПО на Java": https://github.com/Marcelo20044/cats-owners-service.git 
+* [Микросервисный проект](https://github.com/Marcelo20044/cats-owners-service.git) на Spring Boot с использованием Kafka, написанный в рамках курса "Технологии разработки ПО на Java" 
 * Я учился на java тестировщика в нетологии, так что вот дипломная работа по автоматизированному тестированию: https://github.com/Marcelo20044/ShopTest.git
 * Лабораторные работы на C# в рамках курса "ООП на C#": https://github.com/Marcelo20044/oop-labs.git
 <!--
