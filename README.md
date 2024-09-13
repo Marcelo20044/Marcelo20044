@@ -5,6 +5,7 @@
 * Java, Maven, Gradle
 * Spring, Spring Boot: spring web, spring security, spring data jpa
 * Hibernate
+* Go, gorm, mux, net, sarama, gocron
 * PostgreSQL, MySQL, Oracle Database
 * Flyway, Liquibase
 * Kafka, RabbitMQ
@@ -13,7 +14,8 @@
 * Linux, MacOS, Windows
 * Jira
 ### Мои работы:
-* [Микросервисное приложение](https://github.com/Marcelo20044/cats-owners-service.git) для учета котов и их владельцев на Spring Boot с использованием Kafka, написанное в рамках курса "Технологии разработки ПО на Java" 
+* [Микросервисное приложение](https://github.com/Marcelo20044/cats-owners-service.git) для учета котов и их владельцев на Spring Boot с использованием Kafka, написанное в рамках курса "Технологии разработки ПО на Java"
+* [Тестовый проект](https://github.com/Marcelo20044/schedule-myitmo) расписания университета на Go с jwt аутентификацией на Java  
 * Я учился на java тестировщика в нетологии, так что вот [дипломная работа](https://github.com/Marcelo20044/ShopTest.git) по автоматизированному тестированию
 * [Лабораторные работы](https://github.com/Marcelo20044/oop-labs.git) на C# с применением кучи патернов ООП в рамках курса "ООП на C#"
 <!--
