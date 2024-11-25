@@ -5,7 +5,7 @@
 * Java, Maven, Gradle
 * Spring, Spring Boot: spring web, spring security, spring data jpa
 * Hibernate
-* Go, gorm, mux, net, sarama, gocron
+* Go, gorm, gorilla/mux, labstack/echo, sarama, gocron
 * PostgreSQL, MySQL, Oracle Database
 * Flyway, Liquibase
 * Kafka, RabbitMQ
