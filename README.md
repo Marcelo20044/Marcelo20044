@@ -12,7 +12,7 @@
 * Git, GitHub, GitLab
 * Docker, Docker Compose
 * Linux, MacOS, Windows
-* Jira
+* Swagger, Postman, Jira
 ### Мои работы:
 * [Микросервисное приложение](https://github.com/Marcelo20044/cats-owners-service.git) для учета котов и их владельцев на Spring Boot с использованием Kafka, написанное в рамках курса "Технологии разработки ПО на Java"
 * [Тестовый проект](https://github.com/Marcelo20044/schedule-myitmo) расписания университета на Go с jwt аутентификацией на Java  
