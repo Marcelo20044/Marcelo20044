@@ -18,6 +18,7 @@
 * [Тестовый проект](https://github.com/Marcelo20044/schedule-myitmo) расписания университета на Go с jwt аутентификацией на Java  
 * Я учился на java тестировщика в нетологии, так что вот [дипломная работа](https://github.com/Marcelo20044/ShopTest.git) по автоматизированному тестированию
 * [Лабораторные работы](https://github.com/Marcelo20044/oop-labs.git) на C# с применением кучи патернов ООП в рамках курса "ООП на C#"
+* Собственный [алкогольно-ориентированный язык программирования](https://github.com/Marcelo20044/vinum.git), разработанный по приколу 
 <!--
 **Marcelo20044/Marcelo20044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
