@@ -15,7 +15,8 @@
 * Swagger, Postman, Jira
 ### Мои работы:
 * [Микросервисное приложение](https://github.com/Marcelo20044/cats-owners-service.git) для учета котов и их владельцев на Spring Boot с использованием Kafka, написанное в рамках курса "Технологии разработки ПО на Java"
-* [Тестовый проект](https://github.com/Marcelo20044/schedule-myitmo) расписания университета на Go с jwt аутентификацией на Java  
+* [Тестовый проект](https://github.com/Marcelo20044/schedule-myitmo) расписания университета на Go с jwt аутентификацией на Java
+* [Консольная программа](https://github.com/Marcelo20044/gitfame) на go для подсчета статистики git репозитория
 * Я учился на java тестировщика в нетологии, так что вот [дипломная работа](https://github.com/Marcelo20044/ShopTest.git) по автоматизированному тестированию
 * [Лабораторные работы](https://github.com/Marcelo20044/oop-labs.git) на C# с применением кучи патернов ООП в рамках курса "ООП на C#"
 * Собственный [алкогольно-ориентированный язык программирования](https://github.com/Marcelo20044/vinum.git), разработанный по приколу 
