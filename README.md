@@ -2,11 +2,11 @@
 ### Меня зовут Марк Хвостенко
 Я учусь и работаю в Итмо. Учусь на 3 курсе на разработчика ПО. Работаю Go разработчиком с ноября 2023, разрабатываю с командой университетский сервис [my.itmo](https://my.itmo.ru/)
 ### Умею работать с:
+* Go, gorm, go-pg, sqlx, net/http, gin, gorilla, golang-jwt, gocron, go-telegram
+* PostgreSQL, MySQL, Oracle Database
 * Java, Maven, Gradle
 * Spring, Spring Boot: spring web, spring security, spring data jpa
 * Hibernate
-* Go, gorm, go-pg, sqlx, net/http, gin, gorilla, golang-jwt, gocron, go-telegram
-* PostgreSQL, MySQL, Oracle Database
 * Flyway, Liquibase
 * Kafka, RabbitMQ
 * Git, GitHub, GitLab
