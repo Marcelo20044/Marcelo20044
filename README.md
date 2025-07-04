@@ -1,36 +1,31 @@
-## Привет!
-### Меня зовут Марк Хвостенко
-Я учусь и работаю в Итмо. Учусь на 3 курсе на разработчика ПО. Работаю Go разработчиком с октября 2023, разрабатываю с командой университетский сервис [my.itmo](https://my.itmo.ru/)
-### Умею работать с:
-* Go, gorm, go-pg, sqlx, net/http, gin, gorilla, golang-jwt, gocron, go-telegram
-* PostgreSQL, MySQL, Oracle Database
-* Java, Maven, Gradle
-* Spring, Spring Boot: spring web, spring security, spring data jpa
-* Hibernate
-* Flyway, Liquibase
-* Kafka, RabbitMQ
-* Git, GitHub, GitLab
-* Docker, Docker Compose
-* Linux, MacOS, Windows
-* Swagger, Postman, Jira
-### Мои работы:
-* [Микросервисное приложение](https://github.com/Marcelo20044/cats-owners-service.git) для учета котов и их владельцев на Spring Boot с использованием Kafka, написанное в рамках курса "Технологии разработки ПО на Java"
-* [Сервис расписания](https://github.com/Marcelo20044/schedule-myitmo) университета, написанный на Go с jwt аутентификацией на Java
-* [Консольная программа](https://github.com/Marcelo20044/gitfame) на go для подсчета статистики git репозитория
-* Я учился на java тестировщика в нетологии, так что вот [дипломная работа](https://github.com/Marcelo20044/ShopTest.git) по автоматизированному тестированию
-* [Лабораторные работы](https://github.com/Marcelo20044/oop-labs.git) на C# с применением кучи патернов ООП в рамках курса "ООП на C#"
-* Собственный [алкогольно-ориентированный язык программирования](https://github.com/Marcelo20044/vinum.git), разработанный по приколу 
+## Hi there!
+### I’m Mark Khvostenko
+
+I study and work at ITMO University. I’m pursuing a Bachelor of Science in Software Engineering (expected graduation: 2026) and have been working as a Go developer since October 2023, building the university’s [my.itmo](https://my.itmo.ru/) service with my team.
+
+### Technologies & Tools
+- **Languages & Frameworks:** Go (gorm, go-pg, sqlx, net/http, gin, gorilla, golang-jwt, gocron, go-telegram), Java (Maven, Gradle, Spring Boot: Spring Web, Spring Security, Spring Data JPA), SQL, JavaScript, TypeScript, C\#, C++, C
+- **Databases & Migrations:** PostgreSQL, MySQL, Oracle Database, Flyway, Liquibase
+- **Messaging & Streaming:** Kafka, RabbitMQ
+- **DevOps & CI/CD:** Docker, Docker Compose, Git, GitHub, GitLab
+- **Observability:** Prometheus, ArcgoCD, Grafana, Sentry
+- **API & Testing:** Swagger, Postman, Jira
+- **OS & Environments:** Linux, macOS, Windows
+
+### Projects
+- **[University Schedule Service](https://github.com/Marcelo20044/schedule-myitmo)**  
+  A Go-based schedule management backend with JWT authentication (Java) for ITMO University.
+- **[Cats & Owners Service](https://github.com/Marcelo20044/cats-owners-service)**  
+  A Spring Boot microservices application for tracking cats and their owners, using Kafka. (Course project in “Software Development Technologies in Java”)
+- **[GitFame CLI](https://github.com/Marcelo20044/gitfame)**  
+  A Go command-line tool to calculate repository statistics (lines of code, commits, file counts per author).
+- **[ShopTest](https://github.com/Marcelo20044/ShopTest)**  
+  My capstone in automated testing—built during a Java QA course at Netology.
+- **[OOP Labs](https://github.com/Marcelo20044/oop-labs)**  
+  C\# lab assignments demonstrating various OOP design patterns.
+- **[Vinum](https://github.com/Marcelo20044/vinum)**  
+  A toy “alcohol-themed” programming language created just for fun.
+
 <!--
-**Marcelo20044/Marcelo20044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Marcelo20044/Marcelo20044** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 -->
